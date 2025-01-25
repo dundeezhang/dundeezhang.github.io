@@ -1,7 +1,9 @@
 # dhz.app
 
-My Github Profile: [Link](https://github.com/dundeezhang)
+My Github Profile: [Link](https://github.com/dundeezhang).
+
 Find my projects at [dundeezhang.com](https://dundeezhang.com).
+
 My Blog: [dundeezhang.com/blog](https://dundeezhang.com/blog).
 
 ## dhz.app websites:
