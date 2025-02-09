@@ -3,5 +3,16 @@ img {
 }
 
 body {
-    vertical-align: text-top;
+    vertical-align: top;
+}
+
+div.works table,
+div.works table tr td {
+    border: 1px;
+    border-style: solid;
+}
+
+div.works table tr td {
+    padding-left: 5px;
+    padding-right: 5px;
 }
